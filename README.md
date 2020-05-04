@@ -25,5 +25,4 @@ Though Grad-CAM explains the CNN based models prediction with fine-grained detai
 
 <p align='center'><img src=./Files/Grad-CAM++.png></p>
 
-- ### Grad-CAM++
   
